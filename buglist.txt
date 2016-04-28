@@ -1,0 +1,6 @@
+ 
+Bug List
+1. Size always is one larger than the actual size
+2.Remove Front function doesnt remove front node
+3.addBack only works correctly the first time you add to the back. after that it just keeps adding the same value as the first time
+4.IsEmpty doesnt return true when list is Empty.
